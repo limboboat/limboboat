@@ -14,18 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=300&section=header&text=LimBoBoat%20&fontSize=60&desc=Hello%20limBoBoat%20world!&&fontAlignY=40&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LimBoBoat%20&fontSize=60&desc=Hello%20limBoBoat%20world!&&fontAlignY=40&descAlignY=50" />
 
 
 <h3 align="center">[ Tech Stack ]</h3>
-<h3 align="center">C   C++   C#   python   WindowsAPI   DirectX   OpenGL</h3>
+<h3 align="center">C &emsp;  C# &emsp; C++ &emsp; Python &emsp;  WindowsAPI &emsp;  DirectX &emsp; OpenGL</h3>
 <br>
 <br>
 <br>
 <br>
 
 <h3 align="center">[ Tools ]</h3>
-<h3 align="center">visualStudio   MySQL   Unity   Unreal   3DsMax   Git   VSCode</h3>
+<h3 align="center"> VSCode &emsp; VisualStudio &emsp; MySQL &emsp;  Unity  &emsp; Unreal &emsp;  3DsMax &emsp;  Git </h3>
 <br>
 <br>
 <br>
@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limboboat&show_icons=true&theme=graywhite)
 <br>
 
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limboboat)
