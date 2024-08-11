@@ -19,16 +19,23 @@ Here are some ideas to get you started:
 
 <h3 align="center">[ Tech Stack ]</h3>
 <p align="center">  
-  <img src="C:/Users/aeiou/Desktop/Logo/Unreal" align="center" width="32%">  
-  <img src="C:/Users/aeiou/Desktop/Logo/Unreal" align="center" width="32%">  
-  <img src="C:/Users/aeiou/Desktop/Logo/Unreal" align="center" width="32%">  
-  <img src="C:/Users/aeiou/Desktop/Logo/Unreal" align="center" width="32%">  
-  <img src="C:/Users/aeiou/Desktop/Logo/Unreal" align="center" width="32%">  
-  <img src="C:/Users/aeiou/Desktop/Logo/Unreal" align="center" width="32%">  
-  <img src="C:/Users/aeiou/Desktop/Logo/Unreal" align="center" width="32%">  
+  <img src="/Logo/C.png" align="center" height="80px" width="80px">  
+  <img src="/Logo/Logo_C_sharp.jpg" align="center" height="80px" width="75px">  
+  <img src="/Logo/ISO_C++_Logo.svg" align="center" height="80px" width="80px"> 
+  <img src="/Logo/Python-logo.png" height="80px" align="center" width="80px"> 
+  <br>
+
+  <img src="/Logo/Unity.svg" align="center" height="100px" width="100px">  
+  <img src="/Logo/Unreal.png" align="center" height="80px" width="80px">  
+  <img src="/Logo/DirectX_12_Ultimate.png"  align="center" height="60px" width="60px">
+  <img src="/Logo/Opengl-logo.svg.png"  align="center" height="60px" width="=80px">
+  
+  <br>
+  <img src="/Logo/Mysql_logo.png" align="center" height="60px" width="100px"> 
+  <img src="/Logo/Windows_API.png" align="center" height="80px" width="80px">
 </p>
 
-<h4 align="center">C &emsp;  C# &emsp; C++ &emsp; Python &emsp;  WindowsAPI &emsp;  DirectX &emsp; OpenGL</h4>
+<!--<h4 align="center">C &emsp;  C# &emsp; C++ &emsp; Python &emsp;  Windows &emsp;  DirectX &emsp; OpenGL</h4>-->
 <br>
 <br>
 <br>
@@ -36,15 +43,16 @@ Here are some ideas to get you started:
 
 <h3 align="center">[ Tools ]</h3>
 <p align="center">  
-  <img src="C:/Users/aeiou/Desktop/Logo/Unreal" align="center" width="32%">  
-  <img src="C:/Users/aeiou/Desktop/Logo/Unreal" align="center" width="32%">  
-  <img src="C:/Users/aeiou/Desktop/Logo/Unreal" align="center" width="32%">  
-  <img src="C:/Users/aeiou/Desktop/Logo/Unreal" align="center" width="32%">  
-  <img src="C:/Users/aeiou/Desktop/Logo/Unreal" align="center" width="32%">  
-  <img src="C:/Users/aeiou/Desktop/Logo/Unreal" align="center" width="32%">  
-  <img src="C:/Users/aeiou/Desktop/Logo/Unreal" align="center" width="32%">
+  <img src="/Logo/3dmax.webp" align="center" height="80px" width="80px">  
+  <br>
+  <img src="/Logo/Visual_Studio_Icon_2022.svg.png" align="center" height="80px" width="80px">
+  <img src="/Logo/VSCode.png" align="center" height="80px" width="80px">
+  <br>
+  <img src="/Logo/Git_icon.svg.png" align="center" height="80px" width="80px">  
+  <img src="/Logo/GitHub.png" align="center" height="80px" width="80px">
+  <img src="/Logo/gitfork.png" align="center" height="80px" width="80px">
 </p>
-<h4 align="center"> VSCode &emsp; VisualStudio &emsp; MySQL &emsp;  Unity  &emsp; Unreal &emsp;  3DsMax &emsp;  Git </h4>
+<!--<h4 align="center">VisualStudio &emsp; MySQL &emsp;  Unity  &emsp; Unreal &emsp;  3DsMax &emsp;  Git </h4>-->
 <br>
 <br>
 <br>
