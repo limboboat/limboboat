@@ -18,29 +18,31 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">[ Tech Stack ]</h3>
-<h3 align="center">C &emsp;  C# &emsp; C++ &emsp; Python &emsp;  WindowsAPI &emsp;  DirectX &emsp; OpenGL</h3>
+<h4 align="center">C &emsp;  C# &emsp; C++ &emsp; Python &emsp;  WindowsAPI &emsp;  DirectX &emsp; OpenGL</h4>
 <br>
 <br>
 <br>
 <br>
 
 <h3 align="center">[ Tools ]</h3>
-<h3 align="center"> VSCode &emsp; VisualStudio &emsp; MySQL &emsp;  Unity  &emsp; Unreal &emsp;  3DsMax &emsp;  Git </h3>
+<h4 align="center"> VSCode &emsp; VisualStudio &emsp; MySQL &emsp;  Unity  &emsp; Unreal &emsp;  3DsMax &emsp;  Git </h4>
 <br>
 <br>
 <br>
 <br>
 
 <h3 align="center">[ Contact ]</h3>
-<h3 align="center">aeiouz45@gmail.com</h3>
+<h4 align="center">aeiouz45@gmail.com</h4>
 <br>
 <br>
 <br>
 <br>
 
+<!--
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limboboat&show_icons=true&theme=graywhite)
 <br>
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limboboat)
+-->
