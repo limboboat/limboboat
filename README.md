@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LimBoBoat%20&fontSize=60&desc=Hello%20limBoBoat%20world!&&fontAlignY=40&descAlignY=50" />
 
 
-<h3 align="center">[ Tech Stack ]</h3>
+<h3 align="center"> Tech Stack </h3>
 <p align="center">  
   <img src="/Logo/C.png" align="center" height="80px" width="80px">  
   <img src="/Logo/Logo_C_sharp.jpg" align="center" height="80px" width="75px">  
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h3 align="center">[ Tools ]</h3>
+<h3 align="center"> Tools </h3>
 <p align="center">  
   <img src="/Logo/3dmax.webp" align="center" height="80px" width="80px">  
   <br>
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h3 align="center">[ Contact ]</h3>
+<h3 align="center"> Contact </h3>
 <h4 align="center">aeiouz45@gmail.com</h4>
 <br>
 <br>
