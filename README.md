@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=LimBoBoat%20&fontSize=40&desc=Hello%20BoBoat%20world!&&fontAlignY=40&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=LIMBOBOAT%20&fontSize=40&desc=Hello,world!&&fontAlignY=40&descAlignY=50" />
 
 
 <h3 align="center"> Tech Stack </h3>
